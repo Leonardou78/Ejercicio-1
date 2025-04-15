@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.exe
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.deps.json
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.runtimeconfig.json
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.dll
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\bin\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.dll
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\refint\Ejercicio 1.dll
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Desktop\ejercicio de programacion\Ejercicio 1\Ejercicio 1\obj\Debug\net8.0\ref\Ejercicio 1.dll
